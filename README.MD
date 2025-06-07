@@ -84,7 +84,3 @@ Las cookies deben enviarse junto con las solicitudes usando `credentials: 'inclu
 | 405    | Método no permitido |
 | 500    | Error interno del servidor |
 
----
-
-Esta documentación deja clara la funcionalidad de tu API y asegura que cualquiera pueda usarla sin tropezar con detalles ocultos. ¿Quieres agregar algo más, como autenticación o validaciones adicionales? 😃🔥
-
