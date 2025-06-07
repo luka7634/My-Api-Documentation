@@ -37,8 +37,8 @@ curl -X GET http://127.0.0.1:8000/comment/
 **Parámetros:**  
 | Parámetro | Tipo   | Obligatorio | Descripción            |
 |-----------|--------|-------------|------------------------|
-| `user`    | string | ✅          | Nombre del usuario    |
-| `comment` | string | ✅          | Texto del comentario  |
+| `user`    | string | ✅ SI       | Nombre del usuario    |
+| `comment` | string | ✅ SI       | Texto del comentario  |
 
 **Ejemplo de solicitud:**
 ```bash
